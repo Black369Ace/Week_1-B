@@ -6,7 +6,7 @@ using ReleasePipeDemoApp.Controllers;
 namespace ReleasePipeDemoApp.Tests.Controllers
 {
     [TestClass]
-    public class HomeControllerTest
+    public class HomeControllerTest  
     {
         [TestMethod]
         public void Index()
